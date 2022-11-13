@@ -1,0 +1,282 @@
+\doxysection{Referencia de la Clase top.\+TOPTWGRASP}
+\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p}\index{top.TOPTWGRASP@{top.TOPTWGRASP}}
+
+
+Clase \doxyref{TOPTWGRASP}{p.}{classtop_1_1_t_o_p_t_w_g_r_a_s_p}, contiene los metodos de la clase \doxyref{TOPTWGRASP}{p.}{classtop_1_1_t_o_p_t_w_g_r_a_s_p}.  
+
+
+\doxysubsection*{Métodos públicos}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ TOPTWGRASP} (\textbf{ TOPTWSolution} sol)
+\begin{DoxyCompactList}\small\item\em constructor de la clase \doxyref{TOPTWGRASP}{p.}{classtop_1_1_t_o_p_t_w_g_r_a_s_p} \end{DoxyCompactList}\item 
+void \textbf{ GRASP} (int max\+Iterations, int max\+Size\+RCL)
+\begin{DoxyCompactList}\small\item\em metodo GRASP \end{DoxyCompactList}\item 
+int \textbf{ aleatory\+Selection\+RCL} (int max\+TRCL)
+\item 
+int \textbf{ fuzzy\+Selection\+Best\+FDRCL} (Array\+List$<$ double[$\,$] $>$ rcl)
+\item 
+int \textbf{ fuzzy\+Selection\+Alpha\+Cut\+RCL} (Array\+List$<$ double[$\,$] $>$ rcl, double alpha)
+\item 
+void \textbf{ compute\+Greedy\+Solution} (int max\+Size\+RCL)
+\item 
+void \textbf{ update\+Solution} (double[$\,$] candidate\+Selected, Array\+List$<$ Array\+List$<$ Double $>$ $>$ departure\+Times)
+\item 
+Array\+List$<$ double[$\,$] $>$ \textbf{ comprehensive\+Evaluation} (Array\+List$<$ Integer $>$ customers, Array\+List$<$ Array\+List$<$ Double $>$ $>$ departure\+Times)
+\item 
+\textbf{ TOPTWSolution} \textbf{ get\+Solution} ()
+\item 
+void \textbf{ set\+Solution} (\textbf{ TOPTWSolution} solution)
+\item 
+int \textbf{ get\+Solution\+Time} ()
+\item 
+void \textbf{ set\+Solution\+Time} (int solution\+Time)
+\item 
+double \textbf{ get\+Max\+Score} ()
+\end{DoxyCompactItemize}
+\doxysubsection*{Atributos públicos estáticos}
+\begin{DoxyCompactItemize}
+\item 
+static double \textbf{ NO\+\_\+\+EVALUATED} = -\/1.\+0
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Descripción detallada}
+Clase \doxyref{TOPTWGRASP}{p.}{classtop_1_1_t_o_p_t_w_g_r_a_s_p}, contiene los metodos de la clase \doxyref{TOPTWGRASP}{p.}{classtop_1_1_t_o_p_t_w_g_r_a_s_p}. 
+
+\doxysubsection{Documentación del constructor y destructor}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_af0ff5000bf59464aaf630ba7d1753b29}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!TOPTWGRASP@{TOPTWGRASP}}
+\index{TOPTWGRASP@{TOPTWGRASP}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{TOPTWGRASP()}
+{\footnotesize\ttfamily top.\+TOPTWGRASP.\+TOPTWGRASP (\begin{DoxyParamCaption}\item[{\textbf{ TOPTWSolution}}]{sol }\end{DoxyParamCaption})}
+
+
+
+constructor de la clase \doxyref{TOPTWGRASP}{p.}{classtop_1_1_t_o_p_t_w_g_r_a_s_p} 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em sol} & -\/ solucion. \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Documentación de las funciones miembro}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a2c07bc597fa781b81a53ad1017e24a4f}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!aleatorySelectionRCL@{aleatorySelectionRCL}}
+\index{aleatorySelectionRCL@{aleatorySelectionRCL}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{aleatorySelectionRCL()}
+{\footnotesize\ttfamily int top.\+TOPTWGRASP.\+aleatory\+Selection\+RCL (\begin{DoxyParamCaption}\item[{int}]{max\+TRCL }\end{DoxyParamCaption})}
+
+Gráfico de llamadas a esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a2c07bc597fa781b81a53ad1017e24a4f_icgraph}
+\end{center}
+\end{figure}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ae706fe2d8478acf0a026bb40e8fc9df7}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!comprehensiveEvaluation@{comprehensiveEvaluation}}
+\index{comprehensiveEvaluation@{comprehensiveEvaluation}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{comprehensiveEvaluation()}
+{\footnotesize\ttfamily Array\+List$<$ double[$\,$] $>$ top.\+TOPTWGRASP.\+comprehensive\+Evaluation (\begin{DoxyParamCaption}\item[{Array\+List$<$ Integer $>$}]{customers,  }\item[{Array\+List$<$ Array\+List$<$ Double $>$ $>$}]{departure\+Times }\end{DoxyParamCaption})}
+
+Gráfico de llamadas para esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ae706fe2d8478acf0a026bb40e8fc9df7_cgraph}
+\end{center}
+\end{figure}
+Gráfico de llamadas a esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ae706fe2d8478acf0a026bb40e8fc9df7_icgraph}
+\end{center}
+\end{figure}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ade97c51a7d20660d7d306b756b4a6302}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!computeGreedySolution@{computeGreedySolution}}
+\index{computeGreedySolution@{computeGreedySolution}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{computeGreedySolution()}
+{\footnotesize\ttfamily void top.\+TOPTWGRASP.\+compute\+Greedy\+Solution (\begin{DoxyParamCaption}\item[{int}]{max\+Size\+RCL }\end{DoxyParamCaption})}
+
+Gráfico de llamadas para esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ade97c51a7d20660d7d306b756b4a6302_cgraph}
+\end{center}
+\end{figure}
+Gráfico de llamadas a esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ade97c51a7d20660d7d306b756b4a6302_icgraph}
+\end{center}
+\end{figure}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a717d4390dfb843bed804afb598e27a87}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!fuzzySelectionAlphaCutRCL@{fuzzySelectionAlphaCutRCL}}
+\index{fuzzySelectionAlphaCutRCL@{fuzzySelectionAlphaCutRCL}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{fuzzySelectionAlphaCutRCL()}
+{\footnotesize\ttfamily int top.\+TOPTWGRASP.\+fuzzy\+Selection\+Alpha\+Cut\+RCL (\begin{DoxyParamCaption}\item[{Array\+List$<$ double[$\,$] $>$}]{rcl,  }\item[{double}]{alpha }\end{DoxyParamCaption})}
+
+Gráfico de llamadas para esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a717d4390dfb843bed804afb598e27a87_cgraph}
+\end{center}
+\end{figure}
+Gráfico de llamadas a esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a717d4390dfb843bed804afb598e27a87_icgraph}
+\end{center}
+\end{figure}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_aa921b046fab55b437ea10e5cc286c014}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!fuzzySelectionBestFDRCL@{fuzzySelectionBestFDRCL}}
+\index{fuzzySelectionBestFDRCL@{fuzzySelectionBestFDRCL}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{fuzzySelectionBestFDRCL()}
+{\footnotesize\ttfamily int top.\+TOPTWGRASP.\+fuzzy\+Selection\+Best\+FDRCL (\begin{DoxyParamCaption}\item[{Array\+List$<$ double[$\,$] $>$}]{rcl }\end{DoxyParamCaption})}
+
+Gráfico de llamadas para esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_aa921b046fab55b437ea10e5cc286c014_cgraph}
+\end{center}
+\end{figure}
+Gráfico de llamadas a esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_aa921b046fab55b437ea10e5cc286c014_icgraph}
+\end{center}
+\end{figure}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ae0fad47956718e9e96ee5fb6022d9f5b}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!getMaxScore@{getMaxScore}}
+\index{getMaxScore@{getMaxScore}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{getMaxScore()}
+{\footnotesize\ttfamily double top.\+TOPTWGRASP.\+get\+Max\+Score (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Gráfico de llamadas para esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ae0fad47956718e9e96ee5fb6022d9f5b_cgraph}
+\end{center}
+\end{figure}
+Gráfico de llamadas a esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_ae0fad47956718e9e96ee5fb6022d9f5b_icgraph}
+\end{center}
+\end{figure}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a4c37722144024730a440f34343530d2c}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!getSolution@{getSolution}}
+\index{getSolution@{getSolution}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{getSolution()}
+{\footnotesize\ttfamily \textbf{ TOPTWSolution} top.\+TOPTWGRASP.\+get\+Solution (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a52f508173fa05609d4bf7db92111a3b8}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!getSolutionTime@{getSolutionTime}}
+\index{getSolutionTime@{getSolutionTime}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{getSolutionTime()}
+{\footnotesize\ttfamily int top.\+TOPTWGRASP.\+get\+Solution\+Time (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a11242fc809f6a16ff81136c4785fdc3e}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!GRASP@{GRASP}}
+\index{GRASP@{GRASP}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{GRASP()}
+{\footnotesize\ttfamily void top.\+TOPTWGRASP.\+GRASP (\begin{DoxyParamCaption}\item[{int}]{max\+Iterations,  }\item[{int}]{max\+Size\+RCL }\end{DoxyParamCaption})}
+
+
+
+metodo GRASP 
+
+
+\begin{DoxyParams}{Parámetros}
+{\em max\+Iteration} & -\/ numero de iteraciones maximas \\
+\hline
+{\em max\+Size\+RCL} & -\/ numero maximo de RCL \\
+\hline
+\end{DoxyParams}
+Gráfico de llamadas para esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a11242fc809f6a16ff81136c4785fdc3e_cgraph}
+\end{center}
+\end{figure}
+Gráfico de llamadas a esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a11242fc809f6a16ff81136c4785fdc3e_icgraph}
+\end{center}
+\end{figure}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a01595711790fbdceebe112f930ff7f02}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!setSolution@{setSolution}}
+\index{setSolution@{setSolution}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{setSolution()}
+{\footnotesize\ttfamily void top.\+TOPTWGRASP.\+set\+Solution (\begin{DoxyParamCaption}\item[{\textbf{ TOPTWSolution}}]{solution }\end{DoxyParamCaption})}
+
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a88f5adcd791131b1d8da3dc848d80701}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!setSolutionTime@{setSolutionTime}}
+\index{setSolutionTime@{setSolutionTime}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{setSolutionTime()}
+{\footnotesize\ttfamily void top.\+TOPTWGRASP.\+set\+Solution\+Time (\begin{DoxyParamCaption}\item[{int}]{solution\+Time }\end{DoxyParamCaption})}
+
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_adaccdd26e4ad89ffb3e86c780dcd90d7}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!updateSolution@{updateSolution}}
+\index{updateSolution@{updateSolution}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{updateSolution()}
+{\footnotesize\ttfamily void top.\+TOPTWGRASP.\+update\+Solution (\begin{DoxyParamCaption}\item[{double[$\,$]}]{candidate\+Selected,  }\item[{Array\+List$<$ Array\+List$<$ Double $>$ $>$}]{departure\+Times }\end{DoxyParamCaption})}
+
+Gráfico de llamadas para esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_adaccdd26e4ad89ffb3e86c780dcd90d7_cgraph}
+\end{center}
+\end{figure}
+Gráfico de llamadas a esta función\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classtop_1_1_t_o_p_t_w_g_r_a_s_p_adaccdd26e4ad89ffb3e86c780dcd90d7_icgraph}
+\end{center}
+\end{figure}
+
+
+\doxysubsection{Documentación de los datos miembro}
+\mbox{\label{classtop_1_1_t_o_p_t_w_g_r_a_s_p_a4319fa91e2578bb9b5570dc1af7b6f3b}} 
+\index{top.TOPTWGRASP@{top.TOPTWGRASP}!NO\_EVALUATED@{NO\_EVALUATED}}
+\index{NO\_EVALUATED@{NO\_EVALUATED}!top.TOPTWGRASP@{top.TOPTWGRASP}}
+\doxysubsubsection{NO\_EVALUATED}
+{\footnotesize\ttfamily double top.\+TOPTWGRASP.\+NO\+\_\+\+EVALUATED = -\/1.\+0\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+La documentación para esta clase fue generada a partir del siguiente fichero\+:\begin{DoxyCompactItemize}
+\item 
+Exposito\+TOP/\+Exposito\+TOP/src/top/\textbf{ TOPTWGRASP.\+java}\end{DoxyCompactItemize}

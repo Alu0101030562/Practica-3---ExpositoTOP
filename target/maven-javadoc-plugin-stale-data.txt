@@ -1,0 +1,67 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/USUARIO/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/USUARIO/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src;C:/Users/USUARIO/Downloads/ExpositoTOP/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USUARIO/Downloads/ExpositoTOP/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ExpositoTOP 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/USUARIO/Downloads/ExpositoTOP/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ExpositoTOP 0.0.1-SNAPSHOT API'
+es.ull.esit.utilities
+es.ull.esit.utils
+top
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/es/ull/esit/utilities/BellmanFord.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/es/ull/esit/utilities/ExpositoUtilities.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/es/ull/esit/utilities/PowerSet.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/es/ull/esit/utils/Pair.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/top/mainTOPTW.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/top/TOPTW.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/top/TOPTWEvaluator.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/top/TOPTWGRASP.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/top/TOPTWReader.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/top/TOPTWRoute.java'
+'C:/Users/USUARIO/Downloads/ExpositoTOP/ExpositoTOP/src/top/TOPTWSolution.java'
+C:\Users\USUARIO\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1667473291000
+C:\Users\USUARIO\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1667473290797
+C:\Users\USUARIO\Downloads\ExpositoTOP\ExpositoTOP\src = 1571334897330
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\generated-sources\annotations = 1668278380976
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\allclasses-index.html = 1668291750545
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\allclasses.html = 1668291750576
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\allpackages-index.html = 1668291750560
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\constant-values.html = 1668291750214
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\deprecated-list.html = 1668291750576
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\element-list = 1668291750042
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\help-doc.html = 1668291750592
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\index-all.html = 1668291750529
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\index.html = 1668291750592
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\member-search-index.js = 1668291750514
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\member-search-index.zip = 1668291750514
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\overview-summary.html = 1668291750592
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\overview-tree.html = 1668291750394
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\package-search-index.js = 1668291750482
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\package-search-index.zip = 1668291750498
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\script.js = 1668291750623
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\search.js = 1668291750639
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\stylesheet.css = 1668291750607
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\type-search-index.js = 1668291750498
+C:\Users\USUARIO\Downloads\ExpositoTOP\target\site\apidocs\type-search-index.zip = 1668291750514
