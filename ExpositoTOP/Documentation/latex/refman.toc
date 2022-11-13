@@ -1,0 +1,136 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {nil}{}
+\contentsline {chapter}{\numberline {1}Indice de namespaces}{1}%
+\contentsline {section}{\numberline {1.1}Package List}{1}%
+\contentsline {chapter}{\numberline {2}Índice de clases}{3}%
+\contentsline {section}{\numberline {2.1}Lista de clases}{3}%
+\contentsline {chapter}{\numberline {3}Indice de archivos}{5}%
+\contentsline {section}{\numberline {3.1}Lista de archivos}{5}%
+\contentsline {chapter}{\numberline {4}Documentación de namespaces}{7}%
+\contentsline {section}{\numberline {4.1}Paquetes top}{7}%
+\contentsline {chapter}{\numberline {5}Documentación de las clases}{9}%
+\contentsline {section}{\numberline {5.1}Referencia de la Clase top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}main\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTW}{9}%
+\contentsline {subsection}{\numberline {5.1.1}Descripción detallada}{9}%
+\contentsline {subsection}{\numberline {5.1.2}Documentación de las funciones miembro}{9}%
+\contentsline {subsubsection}{\numberline {5.1.2.1}main()}{9}%
+\contentsline {section}{\numberline {5.2}Referencia de la Clase top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTW}{10}%
+\contentsline {subsection}{\numberline {5.2.1}Descripción detallada}{11}%
+\contentsline {subsection}{\numberline {5.2.2}Documentación del constructor y destructor}{11}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}TOPTW()}{11}%
+\contentsline {subsection}{\numberline {5.2.3}Documentación de las funciones miembro}{12}%
+\contentsline {subsubsection}{\numberline {5.2.3.1}addNode()}{12}%
+\contentsline {subsubsection}{\numberline {5.2.3.2}addNodeDepot()}{12}%
+\contentsline {subsubsection}{\numberline {5.2.3.3}calculateDistanceMatrix()}{12}%
+\contentsline {subsubsection}{\numberline {5.2.3.4}getDistance()\hspace {0.1cm}{\footnotesize \ttfamily [1/4]}}{12}%
+\contentsline {subsubsection}{\numberline {5.2.3.5}getDistance()\hspace {0.1cm}{\footnotesize \ttfamily [2/4]}}{13}%
+\contentsline {subsubsection}{\numberline {5.2.3.6}getDistance()\hspace {0.1cm}{\footnotesize \ttfamily [3/4]}}{14}%
+\contentsline {subsubsection}{\numberline {5.2.3.7}getDistance()\hspace {0.1cm}{\footnotesize \ttfamily [4/4]}}{14}%
+\contentsline {subsubsection}{\numberline {5.2.3.8}getDueTime()}{15}%
+\contentsline {subsubsection}{\numberline {5.2.3.9}getMaxRoutes()}{15}%
+\contentsline {subsubsection}{\numberline {5.2.3.10}getMaxTimePerRoute()}{16}%
+\contentsline {subsubsection}{\numberline {5.2.3.11}getNodes()}{16}%
+\contentsline {subsubsection}{\numberline {5.2.3.12}getPOIs()}{16}%
+\contentsline {subsubsection}{\numberline {5.2.3.13}getReadyTime()}{17}%
+\contentsline {subsubsection}{\numberline {5.2.3.14}getScore()\hspace {0.1cm}{\footnotesize \ttfamily [1/2]}}{17}%
+\contentsline {subsubsection}{\numberline {5.2.3.15}getScore()\hspace {0.1cm}{\footnotesize \ttfamily [2/2]}}{17}%
+\contentsline {subsubsection}{\numberline {5.2.3.16}getServiceTime()}{18}%
+\contentsline {subsubsection}{\numberline {5.2.3.17}getTime()}{18}%
+\contentsline {subsubsection}{\numberline {5.2.3.18}getVehicles()}{19}%
+\contentsline {subsubsection}{\numberline {5.2.3.19}getX()}{19}%
+\contentsline {subsubsection}{\numberline {5.2.3.20}getY()}{20}%
+\contentsline {subsubsection}{\numberline {5.2.3.21}isDepot()}{20}%
+\contentsline {subsubsection}{\numberline {5.2.3.22}setDueTime()}{21}%
+\contentsline {subsubsection}{\numberline {5.2.3.23}setMaxRoutes()}{21}%
+\contentsline {subsubsection}{\numberline {5.2.3.24}setMaxTimePerRoute()}{22}%
+\contentsline {subsubsection}{\numberline {5.2.3.25}setNodes()}{22}%
+\contentsline {subsubsection}{\numberline {5.2.3.26}setReadyTime()}{22}%
+\contentsline {subsubsection}{\numberline {5.2.3.27}setScore()}{23}%
+\contentsline {subsubsection}{\numberline {5.2.3.28}setServiceTime()}{23}%
+\contentsline {subsubsection}{\numberline {5.2.3.29}setX()}{23}%
+\contentsline {subsubsection}{\numberline {5.2.3.30}setY()}{24}%
+\contentsline {subsubsection}{\numberline {5.2.3.31}toString()}{24}%
+\contentsline {section}{\numberline {5.3}Referencia de la Clase top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWEvaluator}{24}%
+\contentsline {subsection}{\numberline {5.3.1}Descripción detallada}{24}%
+\contentsline {subsection}{\numberline {5.3.2}Documentación de las funciones miembro}{24}%
+\contentsline {subsubsection}{\numberline {5.3.2.1}evaluate()}{25}%
+\contentsline {subsection}{\numberline {5.3.3}Documentación de los datos miembro}{25}%
+\contentsline {subsubsection}{\numberline {5.3.3.1}NO\_EVALUATED}{25}%
+\contentsline {section}{\numberline {5.4}Referencia de la Clase top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWGRASP}{25}%
+\contentsline {subsection}{\numberline {5.4.1}Descripción detallada}{26}%
+\contentsline {subsection}{\numberline {5.4.2}Documentación del constructor y destructor}{26}%
+\contentsline {subsubsection}{\numberline {5.4.2.1}TOPTWGRASP()}{26}%
+\contentsline {subsection}{\numberline {5.4.3}Documentación de las funciones miembro}{26}%
+\contentsline {subsubsection}{\numberline {5.4.3.1}aleatorySelectionRCL()}{26}%
+\contentsline {subsubsection}{\numberline {5.4.3.2}comprehensiveEvaluation()}{26}%
+\contentsline {subsubsection}{\numberline {5.4.3.3}computeGreedySolution()}{27}%
+\contentsline {subsubsection}{\numberline {5.4.3.4}fuzzySelectionAlphaCutRCL()}{28}%
+\contentsline {subsubsection}{\numberline {5.4.3.5}fuzzySelectionBestFDRCL()}{29}%
+\contentsline {subsubsection}{\numberline {5.4.3.6}getMaxScore()}{29}%
+\contentsline {subsubsection}{\numberline {5.4.3.7}getSolution()}{30}%
+\contentsline {subsubsection}{\numberline {5.4.3.8}getSolutionTime()}{30}%
+\contentsline {subsubsection}{\numberline {5.4.3.9}GRASP()}{30}%
+\contentsline {subsubsection}{\numberline {5.4.3.10}setSolution()}{31}%
+\contentsline {subsubsection}{\numberline {5.4.3.11}setSolutionTime()}{31}%
+\contentsline {subsubsection}{\numberline {5.4.3.12}updateSolution()}{31}%
+\contentsline {subsection}{\numberline {5.4.4}Documentación de los datos miembro}{32}%
+\contentsline {subsubsection}{\numberline {5.4.4.1}NO\_EVALUATED}{32}%
+\contentsline {section}{\numberline {5.5}Referencia de la Clase top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWReader}{32}%
+\contentsline {subsection}{\numberline {5.5.1}Descripción detallada}{32}%
+\contentsline {subsection}{\numberline {5.5.2}Documentación de las funciones miembro}{32}%
+\contentsline {subsubsection}{\numberline {5.5.2.1}readProblem()}{32}%
+\contentsline {section}{\numberline {5.6}Referencia de la Clase top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWRoute}{33}%
+\contentsline {subsection}{\numberline {5.6.1}Descripción detallada}{34}%
+\contentsline {subsection}{\numberline {5.6.2}Documentación de las funciones miembro}{34}%
+\contentsline {subsubsection}{\numberline {5.6.2.1}getId()}{34}%
+\contentsline {subsubsection}{\numberline {5.6.2.2}getPredeccesor()}{34}%
+\contentsline {subsubsection}{\numberline {5.6.2.3}getSuccesor()}{35}%
+\contentsline {subsubsection}{\numberline {5.6.2.4}setId()}{35}%
+\contentsline {subsubsection}{\numberline {5.6.2.5}setPredeccesor()}{35}%
+\contentsline {subsubsection}{\numberline {5.6.2.6}setSuccesor()}{35}%
+\contentsline {section}{\numberline {5.7}Referencia de la Clase top.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWSolution}{36}%
+\contentsline {subsection}{\numberline {5.7.1}Descripción detallada}{36}%
+\contentsline {subsection}{\numberline {5.7.2}Documentación del constructor y destructor}{37}%
+\contentsline {subsubsection}{\numberline {5.7.2.1}TOPTWSolution()}{37}%
+\contentsline {subsection}{\numberline {5.7.3}Documentación de las funciones miembro}{37}%
+\contentsline {subsubsection}{\numberline {5.7.3.1}addRoute()}{37}%
+\contentsline {subsubsection}{\numberline {5.7.3.2}equals()}{38}%
+\contentsline {subsubsection}{\numberline {5.7.3.3}evaluateFitness()}{38}%
+\contentsline {subsubsection}{\numberline {5.7.3.4}getAvailableVehicles()}{38}%
+\contentsline {subsubsection}{\numberline {5.7.3.5}getCreatedRoutes()}{39}%
+\contentsline {subsubsection}{\numberline {5.7.3.6}getDistance()}{39}%
+\contentsline {subsubsection}{\numberline {5.7.3.7}getIndexRoute()}{40}%
+\contentsline {subsubsection}{\numberline {5.7.3.8}getInfoSolution()}{40}%
+\contentsline {subsubsection}{\numberline {5.7.3.9}getObjectiveFunctionValue()}{41}%
+\contentsline {subsubsection}{\numberline {5.7.3.10}getPositionInRoute()}{42}%
+\contentsline {subsubsection}{\numberline {5.7.3.11}getPredecessor()}{42}%
+\contentsline {subsubsection}{\numberline {5.7.3.12}getPredecessors()}{42}%
+\contentsline {subsubsection}{\numberline {5.7.3.13}getProblem()}{42}%
+\contentsline {subsubsection}{\numberline {5.7.3.14}getSuccessor()}{42}%
+\contentsline {subsubsection}{\numberline {5.7.3.15}getSuccessors()}{43}%
+\contentsline {subsubsection}{\numberline {5.7.3.16}getWaitingTime()}{43}%
+\contentsline {subsubsection}{\numberline {5.7.3.17}initSolution()}{43}%
+\contentsline {subsubsection}{\numberline {5.7.3.18}isDepot()}{43}%
+\contentsline {subsubsection}{\numberline {5.7.3.19}printSolution()}{44}%
+\contentsline {subsubsection}{\numberline {5.7.3.20}setAvailableVehicles()}{44}%
+\contentsline {subsubsection}{\numberline {5.7.3.21}setObjectiveFunctionValue()}{44}%
+\contentsline {subsubsection}{\numberline {5.7.3.22}setPositionInRoute()}{45}%
+\contentsline {subsubsection}{\numberline {5.7.3.23}setPredecessor()}{45}%
+\contentsline {subsubsection}{\numberline {5.7.3.24}setSuccessor()}{45}%
+\contentsline {subsubsection}{\numberline {5.7.3.25}setWaitingTime()}{45}%
+\contentsline {subsection}{\numberline {5.7.4}Documentación de los datos miembro}{45}%
+\contentsline {subsubsection}{\numberline {5.7.4.1}NO\_INITIALIZED}{45}%
+\contentsline {chapter}{\numberline {6}Documentación de archivos}{47}%
+\contentsline {section}{\numberline {6.1}Referencia del Archivo Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/top/main\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTW.java}{47}%
+\contentsline {subsection}{\numberline {6.1.1}Descripción detallada}{47}%
+\contentsline {section}{\numberline {6.2}Referencia del Archivo Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTW.java}{47}%
+\contentsline {subsection}{\numberline {6.2.1}Descripción detallada}{48}%
+\contentsline {section}{\numberline {6.3}Referencia del Archivo Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWEvaluator.java}{48}%
+\contentsline {subsection}{\numberline {6.3.1}Descripción detallada}{48}%
+\contentsline {section}{\numberline {6.4}Referencia del Archivo Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWGRASP.java}{49}%
+\contentsline {subsection}{\numberline {6.4.1}Descripción detallada}{49}%
+\contentsline {section}{\numberline {6.5}Referencia del Archivo Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWReader.java}{49}%
+\contentsline {subsection}{\numberline {6.5.1}Descripción detallada}{49}%
+\contentsline {section}{\numberline {6.6}Referencia del Archivo Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWRoute.java}{50}%
+\contentsline {subsection}{\numberline {6.6.1}Descripción detallada}{50}%
+\contentsline {section}{\numberline {6.7}Referencia del Archivo Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Exposito\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOP/src/top/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}TOPTWSolution.java}{50}%
+\contentsline {subsection}{\numberline {6.7.1}Descripción detallada}{50}%
